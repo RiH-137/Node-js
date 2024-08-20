@@ -6,7 +6,7 @@
 6. Node js open-source is a webserver or runtime env for JS.
 7. Node Js LTS(long tern support) is stable for all.
 8. npm is node package manager.
-9. 
+9. node.js architecture(follow YT video)
 
 Commands to run on a Terminal
 1. node --version
