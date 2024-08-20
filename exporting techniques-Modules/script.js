@@ -1,4 +1,4 @@
-// console.log("hello worls");
+// console.log("hello world");
 
 // var a=40;
 // const b=5;
