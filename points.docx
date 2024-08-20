@@ -1,0 +1,18 @@
+1. we can execute javascript ont he browser only, Outside browser its not possible to execute the JS code.
+2. Browsers uses JS Engine to execute the JS code.
+3. Chromr uses V8 JS Engine and Safari uses Apple JS Engine.
+4. Ryan Dahl made node js. He embedded the chromium V8 Engine with C++ --> Node.js
+5. Node.js is a Runtime environment for JS and hence we can execute JS code outside thr browser.
+6. Node js open-source is a webserver or runtime env for JS.
+7. Node Js LTS(long tern support) is stable for all.
+8. npm is node package manager.
+9. 
+
+Commands to run on a Terminal
+1. node --version
+2. node 
+3. console.log("Hello World");
+4. npm -v
+
+5. "npm init" to start the project. Basically this provide us a template to run our project.
+6. 
