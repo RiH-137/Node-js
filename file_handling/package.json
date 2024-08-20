@@ -1,10 +1,10 @@
 {
-  "name": "node-js",
+  "name": "file_handling",
   "version": "1.0.0",
-  "main": "script.js",
+  "main": "file.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node script.js"
+    "file": "node file.js"
   },
   "author": "",
   "license": "ISC",
