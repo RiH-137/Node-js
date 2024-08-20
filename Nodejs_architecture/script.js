@@ -30,3 +30,7 @@ console.log(2);
 */
 
 
+
+
+// Blockinfg request runs parallelly. while non-blocking request runs sequentially.
+
